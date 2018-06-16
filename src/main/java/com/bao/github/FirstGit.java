@@ -6,5 +6,7 @@ public class FirstGit {
 		
 		System.out.println(" hot_fix  model !");
 		
+		System.out.println("sec_second fix");
+		
 	}
 }
